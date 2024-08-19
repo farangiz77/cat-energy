@@ -112,3 +112,29 @@ border: none;
     left: 0;
   }
 }
+
+.wrap1{
+  display: flex;
+  gap: 80px;
+ margin: 0 auto;
+}
+
+.card1{
+  display: flex;
+  align-items: center;
+  padding: 47px 40px;
+  gap: 47px;
+  font-size: 36px;
+  text-transform: uppercase;
+  font-weight: 400;
+
+  p{
+    font-size: 16px;
+    line-height: 24;
+    font-weight: 400;
+  }
+}
+
+.card2{
+  
+}
